@@ -1,0 +1,9 @@
+
+# Ignore temporary files
+*~
+
+# Ignore build directory
+/build
+
+# Ignore custom changes to Makefile
+examples/Makefile
